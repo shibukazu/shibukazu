@@ -1,8 +1,8 @@
 ### Hi there 👋 
 ### History
-- 2020.8 - Unicast
+- 2020.8 - 2020.12 Unicast
 - 2020.9 - Media Do
-- 2021.2 - リクルート
+- 2021.2 - 2021.3 リクルート
 
 <!--
 **shibukazu/shibukazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
