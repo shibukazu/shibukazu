@@ -4,6 +4,9 @@
 - 2020.9 - Media Do
 - 2021.2 - 2021.3 リクルート
 
+### Qualification
+TOEIC L&R 945
+
 <!--
 **shibukazu/shibukazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
