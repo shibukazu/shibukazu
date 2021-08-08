@@ -1,5 +1,11 @@
 ### Hi there 👋 
 ### History
+
+
+##### Educational Bg
+- 2018.4 - 2022.3 Tohoku Univ.
+- 2022.4 - Kyoto Univ.
+##### Internship
 - 2020.8 - 2020.12 Unicast
 - 2020.9 - Media Do
 - 2021.2 - 2021.3 リクルート
