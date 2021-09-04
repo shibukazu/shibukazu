@@ -9,6 +9,7 @@
 - 2020.8 - 2020.12 Unicast
 - 2020.9 - Media Do
 - 2021.2 - 2021.3 リクルート
+- 2021.9 Cybozu
 
 ### Qualification
 TOEIC L&R 945
