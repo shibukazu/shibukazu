@@ -10,6 +10,7 @@
 - 2020.9 - Media Do
 - 2021.2 - 2021.3 リクルート
 - 2021.9 - Cybozu
+- 2022.2 - 2022.3 Sony
 
 ### Qualification
 TOEIC L&R 945
