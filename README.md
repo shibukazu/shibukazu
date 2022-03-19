@@ -11,9 +11,11 @@
 - 2021.2 - 2021.3 リクルート
 - 2021.9 - Cybozu
 - 2022.2 - 2022.3 ソニー・インタラクティブエンターテインメント
+- 2022.3 - 2022.4 CyberAgent, Inc.
 
 ### Qualification
-TOEIC L&R 945
+- TOEIC L&R 945
+- 統計検定　データサイエンス発展
 
 <!--
 **shibukazu/shibukazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
