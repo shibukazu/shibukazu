@@ -17,6 +17,9 @@
 - TOEIC L&R 945
 - 統計検定　データサイエンス発展
 
+### Others
+- [Atcoder](https://atcoder.jp/users/s_k_526)
+
 <!--
 **shibukazu/shibukazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
