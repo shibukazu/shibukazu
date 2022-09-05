@@ -6,14 +6,14 @@
 - 2018.4 - 2022.3 Tohoku Univ.
 - 2022.4 - Kyoto Univ.
 ##### Internship
-- 2020.8 - 2020.12 Unicast
-- 2020.9 - Media Do
-- 2021.2 - 2021.3 リクルート
-- 2021.9 - Cybozu
-- 2022.2 - 2022.3 ソニー・インタラクティブエンターテインメント
+- 2020.8 - 2020.12 Unicast Inc.
+- 2020.9 - MEDIA DO Co., Ltd. 
+- 2021.2 - 2021.3 Recruit Co., Ltd.
+- 2021.9 - Cybozu, Inc.
+- 2022.2 - 2022.3 Sony Interactive Entertainment LLC
 - 2022.3 - 2022.4 CyberAgent, Inc.
-- 2022.8 - 2022.9 株式会社 エクサウィザーズ
-- 2022.9 - 2022.10 株式会社 RevComm
+- 2022.8 - 2022.9 ExaWizards Inc.
+- 2022.9 - 2022.10 RevComm Inc.
 
 ### Qualification
 - TOEIC L&R 945
