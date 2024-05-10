@@ -1,6 +1,5 @@
 ### Hi there 👋 
 
-My Portfolio is 👉 [shibukazu.com](https://www.shibukazu.com)
 
 <!--
 **shibukazu/shibukazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
