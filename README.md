@@ -1,18 +1,19 @@
-### Hi there 👋 
+## About Me
 
+- 🎓 Graduate Student at Kyoto University
+- 💻 Software Engineer (focused on Web Backend, Frontend, and Infrastructure)
+- 👨‍💻 Lead Engineer in various small companies
 
-<!--
-**shibukazu/shibukazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OCW-Central
+  - A curated website for Kyoto University’s OpenCourseWare
+  - Provides essential OCW features and audio transcription powered by OpenAI Whisper
+- LINE-Whisper
+  - A LINE Bot that transcribes users’ recordings and voice messages
+- VoiScribe
+  - An iOS app that enables real-time audio transcription on-device, ensuring no data is sent to external servers
+- Open-VE
+  - A centralized, consistent data validation engine
+- Open Movie Generator CLI
+  - A CLI tool that generates YouTube videos from content on the Japanese bulletin board system 5ch
