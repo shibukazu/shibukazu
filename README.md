@@ -1,8 +1,7 @@
 ## About Me
 
-- 🎓 Graduate Student at Kyoto University
-- 💻 Software Engineer (focused on Web Backend, Frontend, and Infrastructure)
-- 👨‍💻 Lead Engineer in various small companies
+- ~~🎓 Graduate Student at Kyoto University~~
+- 💻 Software Engineer
 
 ## Projects
 
